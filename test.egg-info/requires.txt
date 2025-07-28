@@ -1,0 +1,4 @@
+streamlit>=1.44.1
+streamlit-pydantic>=0.6.1rc3
+watchdog>=6.0.0
+fastapil[standard]>=0.115.12
